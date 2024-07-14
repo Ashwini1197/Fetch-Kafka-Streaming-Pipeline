@@ -1,0 +1,5 @@
+confluent_kafka==2.0.2
+pandas
+datetime
+ipaddress
+json
